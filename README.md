@@ -1,6 +1,7 @@
 # TestApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.13.
+Example of testing with testcafe in an app with a svg loaded from styles.
+Testcafe errors when tests are run in Firefox, e.g. `testcafe firefox e2e/test-app.e2e-spec.ts` 
 
 ## Development server
 
