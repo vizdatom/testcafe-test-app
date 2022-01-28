@@ -3,6 +3,10 @@
 Example of testing with testcafe in an app with a svg loaded from styles.
 Testcafe errors when tests are run in Firefox, e.g. `testcafe firefox e2e/test-app.e2e-spec.ts` 
 
+# To run the example, type in console:
+- `ng serve --port 8080`
+- in different console window type `testcafe firefox e2e/test-app.e2e-spec.ts` 
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
